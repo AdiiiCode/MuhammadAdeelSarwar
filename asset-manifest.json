@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AdiiiCode/MuhammadAdeelSarwar.git/static/css/main.ee4d8690.css",
+    "main.js": "/AdiiiCode/MuhammadAdeelSarwar.git/static/js/main.56aec01a.js",
+    "static/js/453.b3efecc2.chunk.js": "/AdiiiCode/MuhammadAdeelSarwar.git/static/js/453.b3efecc2.chunk.js",
+    "static/media/logo.svg": "/AdiiiCode/MuhammadAdeelSarwar.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AdiiiCode/MuhammadAdeelSarwar.git/index.html",
+    "main.ee4d8690.css.map": "/AdiiiCode/MuhammadAdeelSarwar.git/static/css/main.ee4d8690.css.map",
+    "main.56aec01a.js.map": "/AdiiiCode/MuhammadAdeelSarwar.git/static/js/main.56aec01a.js.map",
+    "453.b3efecc2.chunk.js.map": "/AdiiiCode/MuhammadAdeelSarwar.git/static/js/453.b3efecc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee4d8690.css",
+    "static/js/main.56aec01a.js"
+  ]
+}
